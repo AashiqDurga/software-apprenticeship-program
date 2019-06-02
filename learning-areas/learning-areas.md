@@ -4,7 +4,8 @@
 - Git
 - OOP
 - SOLID
-- TDD
+- [TDD](tdd.md)
+- DDD
 - CI/CD
 - The Cloud
 - Modern Web Applications

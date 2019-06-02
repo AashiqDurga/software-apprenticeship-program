@@ -5,4 +5,4 @@
 
 * [Software Mentorship](software-mentorship.md)
   
-* [Learning Areas](learning-areas.md)
+* [Learning Areas](learning-areas/learning-areas.md)
