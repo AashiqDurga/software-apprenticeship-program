@@ -1,4 +1,4 @@
-# Why Apprenticeship ?
+# Why Apprenticeship ? 🤔
 
 Inspired by an 8th light [blog post.](https://8thlight.com/blog/lihsuan-lung/2012/02/13/why-apprenticeship.html) 
 
