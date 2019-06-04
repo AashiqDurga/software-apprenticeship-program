@@ -61,6 +61,23 @@ Fridays, since that's when everyone gets a break from product work), they'll tel
 Whenever appropriate or applicable to your work, you should take time
 to learn. This could be wtching videos, reading a book or doing a brown bag. We encorage this! We all learn in different ways and at different speeds so do what works to make you **AWESOME** :fire:.
 
+## Books 📚
+
+Here is a list of a few books that will definitely add some value to your career. Pick one and spend some time reading it, maybe even start a book club 🙋. All these books should be available in the local office library.
+
+* Apprenticeship Patterns: by Dave Hoover
+* The Passionate Programmer: by Chad Fowler
+* The Software Craftsman: by Sandro Mancuso
+* Clean Code: by Uncle Bob
+* Pragmatic Programmer: by Andy Hunt
+* Test Driven Development: By Example: Kent Beck
+* Refactoring: by Martin Fowler
+* Working Effectively with Legacy Code: by Michael Feathers
+* Extreme Programming Explained: by Kent Beck 
+* Coding with the wisdom of the crow: by Mark Pearl
+* Domain Driven Design: by Eric Evans
+
+
 ## Workshops
 
 We encourage learning. We have workshops, Communities of Practies and Brown Bags.
