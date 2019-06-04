@@ -4,7 +4,7 @@ Inspired by an 8th light [blog post.](https://8thlight.com/blog/lihsuan-lung/201
 
 We live in a world where we are all learn differently, so why do we try to teach everyone the same way ? 
 
-Modern education systems teach us all the same way, one teacher infront of a class of students reciting material from a textbook expecting us all of get the just of it so we can then go home to learn it all again by ourselves. 
+Modern education systems teach us all the same way, one teacher infront of a class of students reciting material from a textbook expecting us all to get the just of it so we can then go home to learn it all again by ourselves. 
 
 With consideration to the difficulty of assigning each student their own teacher, this model of learning and knowledge transfer has shown its flaws. 
 
