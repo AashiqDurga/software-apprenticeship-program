@@ -1,6 +1,6 @@
 # Welcome to Your Apprenticeship 👋
 
-We're excited to have you here. We hope that you have a great learning experiece with as we guide you to become an **AWESOME** engineer.
+We're excited to have you here. We hope that you have a great learning experiece with us as we guide you to becoming an **AWESOME** engineer.
 
 We understand that all of this may be very new to you but don't you worry we got you covered. We have prepared a little bit of information on what this journey is that you about to go on. 
 
