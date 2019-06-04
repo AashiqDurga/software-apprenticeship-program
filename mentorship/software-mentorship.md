@@ -10,4 +10,4 @@ We very soon in our careers learn that university preps us for academic life and
  Learning how to mentor can be difficult and even scary sometimes.
  Here are a few tips and tricks to get you started.
 
-[A guid to being a mentor](mentor-handbook.md)
+Heres [a guide to being a mentor](mentor-handbook.md)
