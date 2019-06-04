@@ -3,6 +3,6 @@
 
 * [Why Apprenticeship](why-apprenticeship.md)
 
-* [Software Mentorship](software-mentorship.md)
+* [Software Mentorship](mentorship/software-mentorship.md)
   
 * [Learning Areas](learning-areas/learning-areas.md)
