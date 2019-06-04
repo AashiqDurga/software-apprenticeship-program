@@ -126,4 +126,4 @@ then you likely have failed as a mentor.
 * Use your network to find your apprentice interesting work after the program.
 * Be Socratic. Ask tons of questions.
 
-This was adapted and inspired from Community resources for software apprenticeships by [ThoughBot](https://apprentice.thoughtbot.com/)
+This was adapted and inspired from Community resources for software apprenticeships by [ThoughtBot](https://apprentice.thoughtbot.com/)
