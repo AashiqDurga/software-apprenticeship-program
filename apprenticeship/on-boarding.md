@@ -110,8 +110,7 @@ TODO
 
 ## Laptop setup
 
-Your mentor will help you get your laptop set up. We recommend the laptop script
-available at [https://github.com/thoughtbot/laptop].
+Your mentor will help you get your laptop set up. 
 
 ## Logins
 
