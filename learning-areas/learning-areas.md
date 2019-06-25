@@ -1,6 +1,6 @@
 # Learning Areas
 
-- Cli Basics
+- [Cli Basics](cli-basic.md)
 - [Git](git.md)
 - [OOP](oop.md)
 - SOLID
