@@ -1,6 +1,6 @@
 # Tic Tac Toe Kata Advanced
 
-There are a number of possible customizations to advanced Tic Tac Toe. Once you have completed the [Basic Tic Tac Toe](https://github.com/MYOB-Technology/General_Developer/blob/master/katas/kata-tic-tac-toe/kata-tic-tac-toe.md) do one or more of the following:
+There are a number of possible customizations to advanced Tic Tac Toe. Once you have completed the [Basic Tic Tac Toe](tic-tac-toe.md) do one or more of the following:
 
 ### More User Friendly Tic Tac Toe
 
